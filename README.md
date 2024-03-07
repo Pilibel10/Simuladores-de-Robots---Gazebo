@@ -10,7 +10,7 @@ Dentro del código, hay parámetros modificables como pueden ser las tolerancias
 - 10%: Plug-in en C++ (my_wheels_g9) con codigo comentado. Es capaz de llevar al robot de una esquina a otra del mapa.
 	
 - 15%: EXTRAS
-		
+   - Creación de repositorio de Github: https://github.com/Pilibel10/Simuladores-de-Robots---Gazebo	
    - Calculo e impresión por pantalla de la distancia restante al objetivo, así como la posición actual del robot.
    - Video Youtube: https://youtu.be/Cldy7uO_Eno
    - Plug-in extra: generación aleatoria de destino y navegación hacia el mismo.
